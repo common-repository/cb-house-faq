@@ -1,0 +1,70 @@
+
+.home-solvers-faq{}
+.home-solvers-faq .card .card-header{
+	border-bottom:0px;
+}
+.home-solvers-faq .card{
+    margin-bottom: 15px;
+    box-shadow: 0.5px 0.866px 18px 0px rgba(34, 31, 31, 0.24);
+    border: none;
+}
+.home-solvers-faq .card .card-header h5{
+    color: #03245f;
+    font-size: 25px;
+    font-weight: 800;
+    line-height: 45px;
+    transition: 0.5s;
+}
+
+.home-solvers-faq .card .card-header a{
+	text-decoration:none;
+}
+.home-solvers-faq .card .card-header .collapsed h5 i{
+    background: transparent;
+    border: 2px solid #d3d3d3;
+    color: #d3d3d3;
+    transform: rotate(360deg);
+    transition: 0.5s;
+}
+.home-solvers-faq .card .card-header .collapsed h5{
+    color: #282828;
+    font-size: 20px;
+    font-weight: 400;
+}
+.home-solvers-faq .card .card-header i{
+	position: absolute;
+	top: 20px;
+	right: 24px;
+	color: #fff;
+	width: 40px;
+	height: 40px;
+	border: 2px solid #d3d3d3;
+	border-radius: 50px;
+	text-align: center;
+	padding-top: 9px;
+	background: #ed1c24;
+	transform: rotate(180deg);
+	transition: 0.5s;
+}
+
+.problem-house-solvers-faq-area {
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 75px;
+}
+.house-solvers-question{
+    width: 67%;
+    margin: 0 auto;
+}
+.house-solvers-question p{
+    color: #282828;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 35px;
+}
+.house-solvers-question h2{
+    color: #ed1c24;
+    font-size: 35px;
+    font-weight: 800;
+    margin-bottom: 25px;
+}
